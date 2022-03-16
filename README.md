@@ -26,3 +26,9 @@ Access phpMyAdmin.
 ```
 http://localhost:8082/
 ```
+
+Access Homepage.
+
+```
+http://localhost:8082/home
+```
